@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "website",
+      "runtimeExecutable": "ruby",
+      "runtimeArgs": ["-run", "-e", "httpd", "--", "--port=8080", "--document-root=/Users/suhas/Documents/code/personal_suhas_website"],
+      "port": 8080
+    }
+  ]
+}
