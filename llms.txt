@@ -1,0 +1,85 @@
+# Suhas Suresha
+
+> Machine learning engineer and researcher. Senior ML Engineer at Adobe. Co-founder of QALY. 4 granted U.S. patents in machine learning. 8 peer-reviewed publications with 126+ citations. ML systems deployed to hundreds of millions of users.
+
+## Overview
+
+Suhas Suresha is a machine learning engineer and researcher based in the San Francisco Bay Area, specializing in applied machine learning and data science. He currently serves as a Senior Machine Learning Engineer (MLE5) at Adobe, where he works on the Search, Discovery, and Content AI (SDC) platform — the system behind search and recommendations across Adobe Express (43M+ users), Firefly, Creative Cloud, and other Adobe products.
+Before Adobe, Suhas applied his ML expertise to healthcare: he co-founded QALY, Inc. (formerly Feather Health) alongside Dr. Marco V. Perez, Associate Professor of Cardiovascular Medicine at Stanford University and principal investigator of the landmark Apple Heart Study. QALY's mobile app uses machine learning to analyze smartwatch ECG data for cardiac arrhythmias and has been used by over 100,000 people, with more than 500,000 ECGs analyzed. The app was rated the #1 app for managing atrial fibrillation by Everyday Health (81 million monthly readers) and has documented cases of detecting life-threatening cardiac conditions — including a user who was misdiagnosed with anxiety for 15 years before QALY identified supraventricular tachycardia. QALY generates $500,000 in annual recurring revenue and has partnerships with StopAfib.org, a division of the American Foundation for Women's Health.
+
+Before QALY, Suhas applied his ML expertise to the energy industry as a Senior Data Scientist at Schlumberger (SLB), the world's largest oilfield services company. He was one of the top ML contributors at SLB's Software Technology Innovation Center in Menlo Park, producing 4 granted U.S. patents and 3 peer-reviewed publications during his tenure. Suhas pioneered SLB's first domain-specific language model project using BERT in 2018 — months after Google published the original BERT paper — an initiative that served as the catalyst for building the Language Technology team within SLB's Intelligent Systems Laboratory. SLB is now recognized as the leading E&P service company in the generative AI space, a trajectory that traces back to the technical direction Suhas established during his tenure.
+
+## Education
+
+- M.S. in Computational and Applied Mathematics, Stanford University (Institute for Computational and Mathematical Engineering, ICME)
+- B.Tech and M.Tech in Aerospace Engineering, Indian Institute of Technology Madras (IIT Madras)
+
+## Publications
+
+Suhas has authored 8 peer-reviewed scholarly articles in machine learning and data science, published in prestigious international journals and conference proceedings. The core intellectual contribution across all publications is machine learning methodology — applied to domains including NLP, computer vision, healthcare, and geoscience. His publications have collectively garnered over 126 citations on Google Scholar, with an h-index of 6 and i10-index of 3. Google Scholar profile: https://scholar.google.com/citations?user=JWtz3bkAAAAJ
+
+1. **FUSE: Failure-Aware Usage of Subagent Evidence for Multimodal Search and Recommendation** — IEEE ICDM 2025, Workshop on Multimodal Search and Recommendations (MMSR). Joint first author. Powers the AI Assistant in Adobe Express. ICDM is ranked A* by CORE with a 22.4% acceptance rate.
+
+2. **RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs** — NAACL 2025, 4th Workshop on Knowledge-Augmented NLP. Joint first author. Selected for oral presentation — only 12.5% of submissions received this distinction. NAACL is ranked A* by CORE.
+
+3. **Domain-Specific Question Answering with Hybrid Search** — AAAI-25, Workshop on Document Understanding and Intelligence. Co-author. Deployed on Adobe's help documentation infrastructure serving millions of users, achieving a 32% improvement in search accuracy. 6 citations. AAAI-25 had a 23.4% acceptance rate.
+
+4. **Determining Rig State from Computer Vision Analytics** — SPE/IADC International Drilling Conference, 2021. Co-author. Applied computer vision and deep learning to replace traditional sensor-based methods. Led to granted U.S. Patent 12,136,267 B2. 8 citations.
+
+5. **Capturing Uncertainty and Preserving Geological Realism with Attentive Neural Processes for Subsurface Property Modeling** — American Geophysical Union (AGU) Fall Meeting, 2020. Co-author. Led to granted U.S. Patent 12,524,583 B2. Applied generative AI to geological modeling — an approach now recognized as essential for carbon capture and storage (CCS) site characterization.
+
+6. **Probabilistic Semantic Inpainting with Pixel Constrained CNNs** — AISTATS 2019 (International Conference on Artificial Intelligence and Statistics). Co-author. 30% acceptance rate. Open-sourced under official Schlumberger GitHub. Cited in a granted GE HealthCare U.S. patent (No. 11,366,983 B2) for medical imaging applications. 22 citations.
+
+7. **Automated Staging of Knee Osteoarthritis Severity Using Deep Neural Networks** — Osteoarthritis and Cartilage (Elsevier/OARSI), 2018. First author. Impact factor 9, ranked Q1 in Orthopedics. Open-sourced tool for automated OA severity staging from X-rays. 30 citations.
+
+8. **Nonlinear Dynamics and Intermittency in a Turbulent Reacting Wake with Density Ratio as Bifurcation Parameter** — Physical Review E (American Physical Society), 2016. First author. Impact factor 2.29, h-index 271. Applied machine learning-based nonlinear time-series analysis (Recurrence Quantification Analysis) and computational data science methods to turbulent combustion dynamics. 49 citations.
+
+## Patents
+
+Suhas is a named inventor on 4 granted U.S. patents in machine learning, all assigned to Schlumberger Technology Corporation. These patents have collectively received 14 citations from 10+ independent organizations across three continents within 6–12 months of issuance, including ExxonMobil, Nvidia, Halliburton (3 citations), Landmark Graphics (Halliburton subsidiary), CNOOC (China National Offshore Oil Corporation), PetroChina, Fleet Space Technologies (Australia, $230M+ valuation), Shaanxi Fukunshun Technology (China, cross-industry aerospace adoption), Yangtze University, SparkCognition, and Schlumberger (follow-on innovation).
+
+1. **US 12,524,583 B2** — "Property Modeling Using Attentive Neural Processes" (Granted January 13, 2026). Lead inventor. Novel approach combining neural networks with probabilistic reasoning for geological uncertainty quantification.
+
+2. **US 12,399,291 B2** — "System and Method for Identifying Subsurface Structures" (Granted August 26, 2025). First in the industry to process seismic data as full 3D volumes using deep learning. 9 external citations from ExxonMobil, Nvidia, CNOOC, PetroChina, Landmark Graphics, Yangtze University, and SparkCognition.
+
+3. **US 12,333,430 B2** — "Super Resolution Machine Learning for Seismic Visualization Generation" (Granted June 17, 2025). Lead inventor. Cited by Fleet Space Technologies (Australia) for satellite-enabled mineral exploration.
+
+4. **US 12,136,267 B2** — "Rig State Detection Using Video Data" (Granted November 5, 2024). First demonstration of video-only rig state detection using deep learning. Cited 4 times by Halliburton (3 patents) and Shaanxi Fukunshun Technology (aerospace application in China).
+
+## Peer Review and Judging
+
+Suhas has been repeatedly selected as a peer reviewer for machine learning research by prestigious journals, IEEE publications, and major international conferences. His reviewing spans multiple application domains — including geoscience/energy and natural language processing — reflecting the breadth of his ML expertise. Machine learning is inherently a methodological discipline, and Suhas's ability to review ML research across different application areas reflects the generalizable nature of his core expertise, not work in separate fields. Across 6 reviewing engagements, he has evaluated approximately 22 submissions.
+
+- **ACL 2026 Industry Track** — Reviewer for the premier international conference in computational linguistics (CORE A*). Reviewed 3 papers. Ratings ranged from 3 to 8, with confidence scores of 4–5. Reviews publicly documented on OpenReview.
+- **KnowledgeNLP Workshop at NAACL 2025** — Nominated by program chair committee. Reviewed 2 full papers. Confidence rating of 5 ("absolutely certain") on one review. Reviews publicly documented on OpenReview.
+- **IEEE Geoscience and Remote Sensing Letters (GRSL)** — Impact factor 4.4. Invited by Associate Editor Dr. Haibin Di. Reviewed 2 manuscripts simultaneously (February 2025). Reviews tracked via Clarivate/Web of Science.
+- **SEG-AAPG IMAGE 2025 Technical Program** — Repeat invitation from 2023. Invited by Eduardo Maldonado-Cruz (Chevron). Reviewed 5 abstracts in Digitalization, ML, and Analytics.
+- **SEG-AAPG IMAGE 2023 Technical Program** — World's largest annual gathering of earth scientists. Reviewed ~9 abstracts in Machine Learning and Data Analytics theme.
+- **GEOPHYSICS Journal (2023)** — Flagship journal of the Society of Exploration Geophysicists, ranked #6 in geophysics by Google Scholar Metrics.
+
+## QALY — ML-Powered Heart Health App
+
+Website: https://www.qaly.co/
+
+QALY is an ML-powered heart health application co-founded by Suhas Suresha and Dr. Marco V. Perez (Associate Professor of Cardiovascular Medicine, Stanford University; Director, Stanford Cardiac Electrocardiography Laboratory; Principal Investigator, Apple Heart Study). Suhas served as co-founder and Head of Machine Learning from 2020 to 2022, building the entire ML infrastructure from scratch as the sole engineering founder.
+
+Key metrics: 100,000+ users across iOS and Android. 500,000+ ECGs analyzed. $500,000 annual recurring revenue. #1 rated app for managing atrial fibrillation (Everyday Health, 81M monthly readers). 4.7-star rating on the Apple App Store. Partnership with StopAfib.org (American Foundation for Women's Health). Venture-backed by investors including YouWeb (incubator behind Discord, $15B+ valuation), SaxeCap (early investor in OpenAI, Anthropic, SpaceX), and OEL Ventures.
+
+The app has documented life-saving impact: one user discovered she had supraventricular tachycardia (SVT) after 15 years of being misdiagnosed with anxiety. Another user detected multiple arrhythmias (SVT, AFib, atrial tachycardia) that repeated in-person doctor visits had failed to catch, leading to two ablation procedures.
+
+## Adobe — Current Role
+
+Suhas joined Adobe in June 2024 and was promoted from MLE4 to MLE5 (Senior Machine Learning Engineer) in February 2026 — approximately 1.5 years after joining. He works on the Search, Discovery, and Content AI (SDC) platform, which processes over 430 million daily requests and indexes over 78 billion assets across Adobe's product ecosystem.
+
+Key contributions at Adobe:
+- Built the Intent2Action system (Search Subagent) for the Adobe Express AI Assistant, launched at Adobe MAX in October 2025. Helps millions of users find and create content through natural language.
+- Joint first author of RouteNator (NAACL 2025, oral presentation) and co-author of Domain-Specific QA (AAAI-25), both deployed in production at Adobe.
+- Created the unified SLM (Small Language Model) evaluation and training pipeline for the SDC organization, accelerating ML engineering productivity across multiple work streams.
+
+## Links
+
+- Website: https://suhassuresha.com
+- LinkedIn: https://www.linkedin.com/in/suhas-suresha/
+- Google Scholar: https://scholar.google.com/citations?user=JWtz3bkAAAAJ
+- GitHub: https://github.com/suhas1992
+- QALY: https://www.qaly.co/
