@@ -1,6 +1,6 @@
 # Suhas Suresha
 
-> Machine learning engineer and researcher. Senior ML Engineer at Adobe. Co-founder of QALY. 4 granted U.S. patents in machine learning. 8 peer-reviewed publications with 126+ citations. ML systems deployed to hundreds of millions of users.
+> Machine learning engineer and researcher. Senior ML Engineer at Adobe. Co-author of Designing AI Systems (Manning Publications). Co-founder of QALY. 4 granted U.S. patents in machine learning. 8 peer-reviewed publications with 126+ citations. ML systems deployed to hundreds of millions of users.
 
 ## Overview
 
@@ -13,6 +13,14 @@ Before QALY, Suhas applied his ML expertise to the energy industry as a Senior D
 
 - M.S. in Computational and Applied Mathematics, Stanford University (Institute for Computational and Mathematical Engineering, ICME)
 - B.Tech and M.Tech in Aerospace Engineering, Indian Institute of Technology Madras (IIT Madras)
+
+## Book
+
+**Designing AI Systems: A Guide to Production-Ready Platforms** — Manning Publications, 2026. The book is a hands-on guide to building production-ready AI platforms, covering model gateway design, retrieval-augmented generation, safety guardrails, observability, and agentic workflow orchestration.
+
+Manning Publications is an independent technical publisher founded in 1990 and distributed by Simon & Schuster. It is widely regarded as one of the premier publishers in software engineering and AI, known for foundational titles such as *Kubernetes in Action* and *Grokking Deep Learning*.
+
+Manning page: https://www.manning.com/books/designing-ai-systems
 
 ## Publications
 
@@ -79,6 +87,7 @@ Key contributions at Adobe:
 ## Links
 
 - Website: https://suhassuresha.com
+- Book: https://www.manning.com/books/designing-ai-systems
 - LinkedIn: https://www.linkedin.com/in/suhas-suresha/
 - Google Scholar: https://scholar.google.com/citations?user=JWtz3bkAAAAJ
 - GitHub: https://github.com/suhas1992
